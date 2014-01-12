@@ -1,0 +1,21 @@
+{
+   "name": "connects",
+   "version": "0.0.1", 
+   "private": true,
+   "scripts": {
+    "start": "node app.js"
+   },
+	"dependencies": {
+    "express": "latest" ,
+    "jade": "*",
+    "fb": "0.1.0",
+    "mongoose": "3.x",
+    "facebook-node-sdk": "~0.2.0"
+  },
+  "engines": {
+    "node": "0.8.14",
+    "npm": "1.1.65"
+  },
+  "author": "Kai Austin"
+}
+
